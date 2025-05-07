@@ -1,0 +1,53 @@
+[
+    {
+      "username": "user",
+      "password": "password",
+      "address": "jalan-jalan"
+    },
+    {
+      "username": "admin",
+      "password": "password23",
+      "address": "jalan kemana nih"
+    },
+    {
+      "username": "jerry",
+      "password": "keju123",
+      "address": "gang tikus no. 7"
+    },
+    {
+      "username": "susan",
+      "password": "rahasiaaja",
+      "address": "lorong sepi depan warung bu rt"
+    },
+    {
+      "username": "udin",
+      "password": "tempegoreng",
+      "address": "belakang masjid, belok dikit"
+    },
+    {
+      "username": "lala",
+      "password": "123456",
+      "address": "komplek kenangan masa lalu blok B"
+    },
+    {
+      "username": "dimas",
+      "password": "cintaduyung",
+      "address": "jalan cinta bertepuk sebelah"
+    },
+    {
+      "username": "budi",
+      "password": "budi123",
+      "address": "di bawah pohon mangga, yang ada bangkunya"
+    },
+    {
+      "username": "nina",
+      "password": "passwordku",
+      "address": "kosan lantai 2, sebelah yang rame terus"
+    },
+    {
+      "username": "rehan",
+      "password": "sayasukaayam",
+      "address": "dekat indomaret tapi yang tutup"
+    }
+  ]
+  
