@@ -56,7 +56,7 @@ class UsersController {
             })
 
 
-            res.status(200).json({ token, username })
+            res.status(200).json({ token, username, password: sha256cryptedPassword, address: user.address })
 
         } catch (error) {
             next(error)
@@ -79,7 +79,7 @@ class UsersController {
                 userId
             })
 
-            res.status(200).json({message: 'Address successfully changed!'})
+            res.status(200).json({ message: 'Address successfully changed!' })
         } catch (error) {
             next(error)
         }
